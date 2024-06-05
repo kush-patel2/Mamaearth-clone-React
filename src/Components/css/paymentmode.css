@@ -1,0 +1,28 @@
+.hGPLPQ{
+    margin-top: 7.8rem;
+    padding: 1rem 1rem 1.5rem;
+}
+.hGPLPQ .heading {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgb(0, 0, 0);
+    margin-bottom: 16px;
+}
+.hRYZDS {
+    display: flex;
+    flex-direction: column;
+    -webkit-box-align: center;
+    align-items: center;
+    font-size: 15px;
+    margin-top: 24px;
+    color: rgb(114, 114, 114);
+    text-align: center;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+}

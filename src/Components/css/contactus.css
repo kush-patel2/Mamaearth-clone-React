@@ -1,0 +1,175 @@
+.div-1-web-contactus {
+    display: flex;
+    margin-top: 7.8rem;
+}
+.huMyMc {
+    border: 1px;
+    overflow-y: scroll;
+    padding: 40px;
+    width: 60%;
+}
+.huMyMc .faqtitle {
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 44px;
+    text-align: left;
+    padding-left: 16px;
+    color: black;
+    padding-bottom: 8px;
+}
+
+.huMyMc .accordion-item{
+    border: none;
+    background-color: white;
+}
+
+.div-1-web-contactus .readMoreBtnDivWeb1 {
+    margin-top: 32px;
+    padding: 1.2rem 0px 0px 16px;
+}
+.div-1-web-contactus .readMoreBtnDivWeb1 .readMoreBtnWeb1 {
+    font-size: 22px;
+    line-height: 18px;
+    font-weight: 500;
+    color: rgb(0, 175, 239);
+    border: 2px solid rgb(0, 175, 239);
+    padding: 8px;
+    border-radius: 8px;
+}
+
+.huMyMc .chatdiv {
+    border: 1px solid rgb(214, 214, 214);
+    text-align: center;
+    margin-top: 56px;
+    border-radius: 16px;
+}
+.div-2-web-contactus {
+    margin-top: 32px;
+    margin-left: 32px;
+    margin-right: 32px;
+}
+.div-2-web-contactus .content-div-web {
+    width: 70%;
+}
+.div-2-web-contactus .content-div-web .heading-1-web {
+    color: black;
+    font-size: 32px;
+    line-height: 44px;
+    font-weight: 700;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.div-2-web-contactus .content-div-web .heading-1-web .heading-subtext-web {
+    display: block;
+    width: max-content;
+}
+.div-2-web-contactus .content-div-web .heading-2-web {
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 100;
+    color: rgb(114, 114, 114);
+    margin-top: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.div-2-web-contactus .content-div-web .link-query-web {
+    text-align: left;
+    margin: 3rem 0rem;
+}
+.div-2-web-contactus .content-div-web .link-query-web > a{
+    color:  rgb(114, 114, 114);
+}
+
+.huMyMc .reasonsoverdiv {
+    background-color: rgb(244, 246, 248);
+    border-bottom-left-radius: 16px;
+    border-bottom-right-radius: 16px;
+    height: 108px;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+}
+.huMyMc .notecontentweb {
+    color: rgb(114, 114, 114);
+    font-size: 24px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.huMyMc .expecteddiv {
+    border-bottom-style: groove;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    font-size: 24px;
+    padding-left: 8px;
+    font-weight: 100;
+}
+.huMyMc .agentsdiv {
+    font-size: 18px;
+    display: flex;
+    padding-left: 8px;
+    padding-top: 16px;
+    font-weight: 100;
+}
+.iTDxGR {
+    margin-left: 4px;
+    display: flex;
+}
+.iTDxGR .timeanddatesubdiv {
+    font-weight: 900;
+    margin-right: 4px;
+    color: rgb(28, 28, 28);
+}
+
+.div-1-web-contactus .design-div-web1 {
+    background-color: rgb(244, 246, 248);
+    padding-left: 32px;
+    padding-top: 32px;
+    padding-right: 96px;
+    width: 392px;
+    margin-right: 0px;
+}
+.div-1-web-contactus .design-div-web1 .heading-1-web1 {
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 60px;
+    color: rgb(29, 29, 29);
+}
+.div-1-web-contactus .design-div-web1 .heading-2-web1 {
+    width: 293px;
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 60.7px;
+    color: rgb(196, 196, 196);
+}
+.div-1-web-contactus .design-div-web1 .heading-3-web1 {
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 48px;
+    color: rgb(29, 29, 29);
+}
+.dOCorx {
+    display: flex;
+}
+.div-1-web-contactus .chatUsIconDivWeb1 {
+    margin-top: 1rem;
+}
+.div-1-web-contactus .chatusiconDescriptionWeb1 {
+    color: rgb(0, 175, 239);
+    width: 84px;
+    font-size: 22px;
+    line-height: 26px;
+    padding: 0.1rem 0.1rem 0.1rem 0.5rem;
+    text-transform: none;
+    letter-spacing: 0px;
+    font-weight: 600;
+    vertical-align: top;
+}
+.chatUsIconDivWeb1 > button{
+    border: none;
+    background-color: rgb(244, 246, 248);
+}
+.chatUsIconImgWeb1{
+    mix-blend-mode: color-burn;
+}

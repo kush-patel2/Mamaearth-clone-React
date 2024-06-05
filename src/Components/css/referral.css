@@ -1,0 +1,138 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    line-height: 1.62;
+    background-color: rgb(255, 255, 255);
+    font-family: "Open Sans", sans-serif;
+}
+.dvICVw {
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: 0px 1rem;
+    background-color: white;
+    color: black;
+    filter: drop-shadow(rgba(0, 0, 0, 0.1) 0px 2px 20px);
+}
+.dvICVw .header-left {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.dvICVw .header-left > p {
+    font-size: 16px;
+    margin-left: 1rem;
+    font-weight: 600;
+    margin-top: 15px;
+    
+}
+.dvICVw .header-right {
+    color: rgb(0, 175, 239);
+    font-weight: 600;
+    font-size: 12px;
+    cursor: pointer;
+}
+.voZRx {
+    padding: 16px;
+}
+.voZRx .heading {
+    font-size: 32px;
+    font-weight: 600;
+    color: rgb(29, 29, 29);
+}
+.voZRx .heading .heading-cash {
+    color: rgb(109, 165, 35);
+}
+.voZRx .sub-text {
+    color: rgb(114, 114, 114);
+    font-size: 16px;
+    font-weight: 600;
+    margin: 1rem 0px 2rem;
+}
+.voZRx .sub-text .sub-text-price {
+    font-weight: 600;
+    color: rgb(29, 29, 29);
+}
+ .bottom-border {
+    background: linear-gradient(90deg, rgb(221, 221, 221) 0%, rgba(221, 221, 221, 0) 100%);
+    height: 2px;
+}
+.dKVEoR {
+    padding: 0px 16px;
+}
+.dKVEoR .invite-code {
+    margin: 1rem 0px;
+    
+}
+.dKVEoR .invite-code .referral-code {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    
+}
+.dKVEoR .invite-code .referral-code > p{
+    line-height: 26.5px;
+    font-size: 20px;
+    font-weight: 540;
+}
+.copy-img{
+    margin-top: -10px;
+    margin-left: 7px;
+    color: rgb(0, 175, 239);
+}
+.dKVEoR .share-via {
+    color: rgb(114, 114, 114);
+    font-weight: 600;
+    font-size: 12px;
+    margin-bottom: 6px;
+}
+.dKVEoR p {
+    margin: 0px;
+}
+.dKVEoR .buttons {
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    align-items: center;
+    margin-bottom: 1.8rem;
+}
+.dKVEoR .buttons .whatsapp-button {
+    background-color: rgb(109, 165, 35);
+    color: rgb(255, 255, 255);
+    border: 2px solid rgb(109, 165, 35);
+    border-radius: 5px;
+    flex: 0.48 1 0%;
+    padding: 0.8rem 1rem;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+}
+.dKVEoR .buttons .more-options-button {
+    color: rgb(0, 175, 239);
+    border: 2px solid rgb(0, 175, 239);
+    flex: 0.48 1 0%;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 12px;
+    font-weight: 600;
+}
+.icon{
+    color: white;
+}
+.gyYthh {
+    padding: 16px;
+    font-size: 14px;
+}
+.gyYthh .text-heading {
+    font-weight: 600;
+    color: rgb(29, 29, 29);
+}
+.gyYthh .sub-points {
+    display: flex;
+    align-items: flex-start;
+    margin: 1rem 0px;
+}

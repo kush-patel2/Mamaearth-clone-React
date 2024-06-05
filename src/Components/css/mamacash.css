@@ -1,0 +1,132 @@
+@media only screen and (min-width: 768px)
+{
+.cGLJUw {
+    display: flex;
+    flex-direction: row;
+}
+.ffWgHd .oops-wrapper {
+    margin-left: 16px;
+}
+.jPcSdL {
+    width: 350px;
+    height: fit-content;
+}
+.kpRFUR .cashback-history-title {
+    font-size: 18px;
+}
+
+}
+
+
+.cGLJUw {
+    margin-top: 7.8rem;
+}
+.ffWgHd {
+    padding: 16px 16px 32px;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.ffWgHd .oops-text {
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 0px;
+    color: rgb(29, 29, 29);
+}
+.ffWgHd .oops-subtext {
+    font-size: 12px;
+    font-weight: 400;
+    color: rgb(29, 29, 29);
+}
+.jPcSdL {
+    border-radius: 18px;
+    border: 1px solid rgb(202, 225, 176);
+    background: rgb(255, 255, 255);
+    margin: 0px 16px 16px;
+}
+.jPcSdL .expiry-title {
+    color: rgb(29, 29, 29);
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+    margin: 16px 0px 0px 16px;
+}
+.jPcSdL .expiry-subtitle {
+    color: rgb(29, 29, 29);
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+    margin: 8px 0px 16px 16px;
+}
+.jPcSdL .shop-now-cta {
+    color: rgb(0, 174, 239);
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 18px;
+    border-radius: 0px 0px 18px 18px;
+    border-top: 1px solid rgb(202, 225, 176);
+    background: rgb(235, 245, 224);
+    padding: 16px;
+}
+.kpRFUR {
+    padding: 0px 16px 16px;
+    width: 100%;
+}
+.kpRFUR .cashback-history-title {
+    color: var(--Text-Paragraph, #1D1D1D);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16.474px;
+    margin: 16px 0px;
+}
+.httSEK {
+    margin-top: 0.5rem;
+    padding: 0.5rem 0.75rem;
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    align-items: center;
+    border: 1px solid rgb(214, 214, 214);
+    border-radius: 5px;
+}
+.fKZjOa {
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.fKZjOa.debit .type, .fKZjOa.debit .amount {
+    color: rgb(240, 68, 56);
+}
+.fKZjOa .date {
+    margin-left: 0.25rem;
+    margin-right: auto;
+    font-size: 0.9rem;
+    font-weight: 600;
+    line-height: 2;
+    text-transform: capitalize;
+    color: rgb(80, 80, 80);
+}
+.httSEK .order-info, .httSEK .explanantion {
+    margin: 0px;
+    font-size: 0.75rem;
+    font-weight: 400;
+    line-height: 1.45em;
+    color: rgb(80, 80, 80);
+}
+.httSEK.isDebit .amount {
+    color: rgb(240, 68, 56);
+}
+.httSEK .amount {
+    font-size: 1.1rem;
+    font-weight: 500;
+    line-height: 0.85;
+    color: rgb(66, 122, 8);
+}

@@ -1,0 +1,81 @@
+.jeXwuF {
+    margin-top: 7.8rem;
+    margin-left: 20px;
+    
+    width: 100%;
+}
+
+.jeXwuF .section-header {
+    font-size: 1rem;
+    margin: 0px 0px 15px;
+    color: rgb(114, 114, 114);
+}
+.iXghqB {
+    width: 75%;
+    padding: 0.5rem;
+    margin-bottom: 1.2rem;
+    display: flex;
+    flex-direction: column;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    border: 1px solid rgb(214, 214, 214);
+    border-radius: 5px;
+    color: rgb(29, 29, 29);
+}
+.iXghqB .flex {
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.iXghqB .title {
+    font-size: 11px;
+    color: rgb(130, 195, 65);
+    padding: 0.1rem 0.5rem;
+    background-color: rgb(223, 239, 206);
+    border: 1px solid rgb(223, 239, 206);
+    border-radius: 2px;
+    margin-right: 1rem;
+}
+
+
+.iXghqB .address {
+    margin-top: 0.5rem;
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+.iXghqB .phone-number {
+    font-size: 0.9rem;
+    margin-top: 0.25rem;
+    font-weight: 600;
+}
+.iXghqB .action-buttons {
+    margin-top: 0.5rem;
+    text-align: right;
+}
+.iXghqB .action-buttons button {
+    padding: 0px;
+    color: rgb(0, 175, 239);
+    font-size: 0.9rem;
+    font-weight: 600;
+    letter-spacing: 0.25px;
+    text-transform: uppercase;
+    margin-right: 1rem;
+    background-color: white;
+    border: none;
+}
+.ipaSkd {
+    margin-top: 2rem;
+    cursor: pointer;
+    letter-spacing: 0.5px;
+    word-spacing: 2px;
+    font-size: 12px;
+    width: 40%;
+    text-align: center;
+    color: rgb(0, 175, 239);
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(0, 175, 239);
+    border-radius: 3px;
+    padding: 0.6rem 0rem;
+}

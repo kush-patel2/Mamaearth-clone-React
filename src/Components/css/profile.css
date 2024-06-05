@@ -1,0 +1,416 @@
+.name{
+    font-weight: 600;
+    font-size: 18px;
+    color: rgb(29, 29, 29);
+    padding: 10px ;
+}
+
+.profile_wrapper{
+    margin-top: 4.80rem;
+}
+
+.deskflex{
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+}
+
+.details {
+    font-size: 14px;
+    color: rgb(29, 29, 29);
+    font-weight: 400;
+    padding: 10px;
+}
+
+.cEtUHk {
+    border: none;
+    background-color: white;
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    cursor: pointer;
+    font-size: 14px;
+    text-align: center;
+    color: rgb(0, 175, 239);
+    font-weight: 600;
+    border-radius: 1px;
+    padding: 0.3rem;
+    margin-left: 1rem;
+}
+.filter {
+    color: rgb(0, 175, 239);
+    font-weight: 400;
+}
+
+.bton {
+    color: rgb(0, 175, 239);
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    margin-bottom: 1rem;
+    padding: 10px;
+}
+
+.dUMhGd{
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    font-size: 14px;
+    font-weight: 500;
+    background-color: rgb(221, 221, 221);
+    border-radius: 50px;
+    color: rgb(29, 29, 29);
+    text-align: left;
+    padding: 0.9rem 1rem;
+    margin: 0.5rem;
+    cursor: pointer;
+    min-height: 82px;
+}
+.spac {
+    margin-left: 4px;
+}
+.MUxAp {
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 17px;
+    color: rgb(114, 114, 114);
+}
+.gRxSpk {
+    --height: 8px;
+    --color: #F2F2F2;
+    width: 100%;
+    border-bottom: var(--height) solid var(--color);
+}
+
+.jkMFTA {
+    margin: 1rem 0px;
+}
+
+.flex-div {
+    display: flex;
+    justify-content: space-around;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.text {
+    color: rgb(29, 29, 29);
+    font-size: 14px;
+    font-weight: 600;
+}
+.sub {
+    color: rgb(114, 114, 114);
+    font-weight: 500;
+}
+.back {
+    background-color: rgb(244, 246, 248);
+    padding: 1rem;
+    position: relative;
+}
+
+.img-round {
+    position: absolute;
+    top: -4px;
+    left: 0px;
+    max-width: 100%;
+    
+    
+}
+
+.kkfuHC {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.jFUjWd {
+    text-align: center;
+    cursor: pointer;
+    border: 1px solid rgb(173, 173, 173);
+    border-radius: 10px;
+    margin: 1rem 0.3rem;
+    padding: 6px 0px;
+    position: relative;
+    background-color: white;
+}
+ .head {
+    font-size: 14px;
+    font-weight: 600;
+    color: rgb(80, 80, 80);
+}
+ .price {
+    font-size: 18px;
+    font-weight: 600;
+    color: rgb(80, 80, 80);
+}
+ .slashed-goodness {
+    font-size: 14px;
+    text-decoration: line-through;
+    color: rgb(163, 163, 163);
+    margin: 0px 5px;
+}
+
+ .per {
+    font-size: 12px;
+    font-weight: 400;
+    color: rgb(114, 114, 114);
+}
+
+.gxufFx {
+    text-align: center;
+    cursor: pointer;
+    border-radius: 10px;
+    margin: 1rem 0.3rem;
+    padding: 6px 0px;
+    position: relative;
+    background-color: white;
+}
+.gxufFx .badge {
+    position: absolute;
+    top: -9px;
+    left: 15%;
+    background-color: rgb(140, 179, 71);
+    color: white;
+    font-size: 9px;
+    border-radius: 10px;
+    width: 70%;
+    padding: 1px 10px;
+}
+
+.jkMFTA .btn {
+    background-color: rgb(0, 175, 239);
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+    border-radius: 5px;
+    padding: 0.8rem 0px;
+    cursor: pointer;
+    width: 90%;
+    margin: 0px 5%;
+}
+
+@media only screen and (min-width: 768px)
+{
+    .grid-container {
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+        padding: 10px 0px;
+    }
+.dUMhGd {
+    border: 1px solid rgb(221, 221, 221);
+    background-color: white;
+    border-radius: 10px;
+    padding: 0.8rem 0.2rem 0.8rem 0.6rem;
+}
+.circle {
+    background-color: rgb(244, 246, 248);
+    padding: 12px;
+    border-radius: 50%;
+}
+.line {
+    width: 100%;
+    /* margin: 0px -12vw; */
+    margin-bottom: 20px;
+}
+
+.foot{
+        display: flex;
+        -webkit-box-align: center;
+        align-items: center;
+}
+
+.jkMFTA {
+    width: 49%;
+    border: 2px solid rgb(244, 246, 248);
+    border-radius: 20px;
+    padding-top: 20px;
+}
+
+.kkfuHC {
+    width: 90%;
+    margin: 0px 5%;
+}
+
+.account {
+    display: flex;
+    width: 50%;
+    border-radius: 20px;
+}
+.foot .GoodnessSection {
+    padding: 10px;
+}
+
+.foot .appShareSection {
+    padding-bottom: 5px;
+}
+
+.kmZrAT .app {
+    margin-right: 16px;
+    margin-left: 16px;
+    width: 60%;
+}
+/* .kmZrAT .qrImage {
+    width: 118px;
+    height: 119px;
+} */
+
+.downloadBenifits {
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 5px;
+    padding-left: 0px;
+    margin-top: 25px;
+}
+.downloadBenifits .downText {
+    margin-bottom: 4px;
+    padding-left: 15px;
+}
+.foot .benifits {
+    display: flex;
+    flex-direction: column;
+    border-left: 1px dashed rgb(168, 185, 149);
+    padding-left: 15px;
+}
+.benifitsSection {
+    flex-direction: row;
+    margin-bottom: 0px;
+}
+.kmZrAT .benifitText{
+    text-align: center;;
+}
+    
+}
+
+
+.kmZrAT {
+    background-color: rgb(235, 245, 224);
+    height: max-content;
+    margin-top: 0rem;
+    margin-left: 8px;
+}
+.kmZrAT .GoodnessSection {
+    background-color: rgb(235, 245, 224);
+    border: 1px solid rgb(235, 245, 224);
+    border-radius: 8px;
+    padding: 10px 10px 0px;
+    margin-top: 10px;
+}
+
+.kmZrAT .plantTree {
+    position: relative;
+    margin-top: 16px;
+}
+
+.kmZrAT .plantContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    position: relative;
+}
+.kmZrAT .halfTree {
+    position: absolute;
+    left: -10px;
+    top: 35%;
+}
+.kmZrAT .plantedTree {
+    align-self: flex-end;
+    display: inline-flex;
+    flex-direction: column;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.kmZrAT .plantNumber {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+.kmZrAT .plantName {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 14px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    z-index: 1;
+}
+
+.kmZrAT .plantBack {
+    position: absolute;
+    bottom: -15px;
+    left: -10px;
+    right: -10px;
+    overflow: auto;
+}
+
+.kmZrAT .appShareSection {
+    display: flex;
+    flex-direction: row-reverse;
+    margin-top: 12px;
+    padding: 0px 10px;
+}
+.kmZrAT .downloadText {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+    text-align: left;
+    color: rgb(29, 29, 29);
+    padding: 2px 8px;
+}
+.kmZrAT .appImages {
+    display: flex;
+    flex-direction: row;
+    margin-top: 8px;
+    width: 100% !important;
+}
+
+.kmZrAT .downloadBenifits {
+    margin-top: 10px;
+    padding: 10px 16px;
+    margin-bottom: 12px;
+}
+
+.kmZrAT .downText {
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 19px;
+    text-align: left;
+    color: rgb(29, 29, 29);
+    margin-bottom: 16px;
+}
+.kmZrAT .benifits {
+    display: flex;
+    flex-direction: row;
+    -webkit-box-pack: center;
+    justify-content: center;
+}
+.kmZrAT .benifitsSection {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-between; */
+    -webkit-box-align: center;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.kmZrAT .benifitText {
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgb(29, 29, 29);
+    margin-top: 15px;
+    margin-left: 0px;
+    padding-left: 0px;
+   
+}
+.options{
+    border-radius: 50%;
+
+}
+.option{
+    mix-blend-mode: color-burn;
+}
